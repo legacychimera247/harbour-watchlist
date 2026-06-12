@@ -67,3 +67,4 @@ Watchlist was translated to several languages. Thanks to all contributors!
 - Russian: [Viacheslav Dikonov](https://github.com/ApostolosB)
 - Swedish: [Åke Engelbrektson](https://github.com/eson57)
 - French: [Patrick Hervieux](https://github.com/pherjung)
+- Finnish: [Elmeri Länsiharju](https://github.com/tuplasuhveli)
